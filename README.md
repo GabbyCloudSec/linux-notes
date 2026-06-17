@@ -1,4 +1,3 @@
-```markdown
 # Linux Notes
 
 Documentation and command references created while learning Linux administration and security fundamentals.
@@ -10,6 +9,18 @@ Documentation and command references created while learning Linux administration
 - Processes
 - Networking
 - Bash Commands
+
+## Repository Structure
+
+```text
+linux-notes
+│
+├── permissions
+├── users-groups
+├── processes
+├── networking
+└── bash-cheatsheet
+```
 
 ## Purpose
 
@@ -24,5 +35,4 @@ Maintain organized notes and reinforce Linux concepts through hands-on practice.
 ## Status
 
 Active
-```
 

@@ -18,7 +18,7 @@ top
 kill PID
 ```
 
-## Kill a Process by Name
+## Kill by Name
 
 ```bash
 pkill process_name

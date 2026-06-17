@@ -32,4 +32,4 @@ groups
 
 ## Notes
 
-Users and groups help control access to system resources and are an essential part of Linux security.
+Users and groups provide access control and help enforce security boundaries.

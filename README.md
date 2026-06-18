@@ -1,38 +1,52 @@
 # Linux Notes
 
-Documentation and command references created while learning Linux administration and security fundamentals.
+## Overview
 
-## Topics
+This repository contains Linux administration and security notes created while studying operating system fundamentals and command-line tools. The content serves as a reference for common commands, system management tasks, and security concepts.
 
-- File Permissions
-- Users and Groups
-- Processes
-- Networking
-- Bash Commands
+## Technologies Used
 
-## Repository Structure
+* Linux
+* Bash
+* Command Line
+* Git
+* VS Code
 
-```text
-linux-notes
-│
-├── permissions
-├── users-groups
-├── processes
-├── networking
-└── bash-cheatsheet
-```
+## Topics Covered
 
-## Purpose
+* File System Navigation
+* User and Group Management
+* Permissions and Ownership
+* Process Management
+* Networking Commands
+* Package Management
+* Security Fundamentals
 
-Maintain organized notes and reinforce Linux concepts through hands-on practice.
+## Skills Demonstrated
 
-## Technologies
+* Linux Administration
+* Command Line Proficiency
+* Troubleshooting
+* System Management
+* Documentation
+* Problem Solving
 
-- Ubuntu
-- Bash
-- Linux CLI
+## What I Learned
 
-## Status
+Working through Linux concepts improved my understanding of operating system fundamentals, command-line utilities, permissions, and system administration practices commonly used in cloud and cybersecurity environments.
 
-Active
+## Future Improvements
+
+* Add Bash scripting examples
+* Expand networking notes
+* Include log management concepts
+* Add Linux security hardening techniques
+* Organize content into separate sections
+
+## Author
+
+Gabriell Bedoy
+
+GitHub: https://github.com/GabbyCloudSec
+
 

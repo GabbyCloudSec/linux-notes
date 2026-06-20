@@ -1,47 +1,33 @@
 # Linux Notes
 
-## Overview
+Linux administration and security notes focused on command-line fundamentals, system management, permissions, networking, and core Linux security concepts.
 
-This repository contains Linux administration and security notes created while studying operating system fundamentals and command-line tools. The content serves as a reference for common commands, system management tasks, and security concepts.
+## What This Covers
 
-## Technologies Used
+- File system navigation
+- Users and groups
+- Permissions and ownership
+- Process management
+- Networking commands
+- Package management
+- Linux security fundamentals
 
-* Linux
-* Bash
-* Command Line
-* Git
-* VS Code
+## Skills Practiced
 
-## Topics Covered
-
-* File System Navigation
-* User and Group Management
-* Permissions and Ownership
-* Process Management
-* Networking Commands
-* Package Management
-* Security Fundamentals
-
-## Skills Demonstrated
-
-* Linux Administration
-* Command Line Proficiency
-* Troubleshooting
-* System Management
-* Documentation
-* Problem Solving
-
-## What I Learned
-
-Working through Linux concepts improved my understanding of operating system fundamentals, command-line utilities, permissions, and system administration practices commonly used in cloud and cybersecurity environments.
+- Linux administration
+- Bash and command-line usage
+- System management
+- Troubleshooting
+- Security documentation
+- Problem solving
 
 ## Future Improvements
 
-* Add Bash scripting examples
-* Expand networking notes
-* Include log management concepts
-* Add Linux security hardening techniques
-* Organize content into separate sections
+- Add Bash scripting examples
+- Expand networking notes
+- Include log management concepts
+- Add Linux security hardening techniques
+- Organize notes into separate topic files
 
 ## Author
 

@@ -1,15 +1,17 @@
 # Linux Notes
 
+🔗 Part of my [Cloud Security Portfolio](https://gabbycloudsec.github.io)
+
 Linux administration and security notes focused on command-line fundamentals, system management, permissions, networking, and core Linux security concepts.
 
 ## What This Covers
 
+- Bash command-line cheat sheet
 - File system navigation
 - Users and groups
 - Permissions and ownership
 - Process management
 - Networking commands
-- Package management
 - Linux security fundamentals
 
 ## Skills Practiced
@@ -34,5 +36,4 @@ Linux administration and security notes focused on command-line fundamentals, sy
 Gabriell Bedoy
 
 GitHub: https://github.com/GabbyCloudSec
-
 

@@ -1,39 +1,15 @@
-# Linux Notes
+Linux security and system administration notes focused on building foundational skills for cybersecurity and SOC environments.
 
-🔗 Part of my [Cloud Security Portfolio](https://gabbycloudsec.github.io)
+This repository documents hands-on learning in Linux environments with an emphasis on security-relevant system behavior.
 
-Linux administration and security notes focused on command-line fundamentals, system management, permissions, networking, and core Linux security concepts.
+## Focus Areas
+- File permissions and user management
+- Process and service monitoring
+- Networking fundamentals
+- Bash scripting basics
 
-## What This Covers
-
-- Bash command-line cheat sheet
-- File system navigation
-- Users and groups
-- Permissions and ownership
-- Process management
-- Networking commands
-- Linux security fundamentals
-
-## Skills Practiced
-
-- Linux administration
-- Bash and command-line usage
-- System management
-- Troubleshooting
-- Security documentation
-- Problem solving
-
-## Future Improvements
-
-- Add Bash scripting examples
-- Expand networking notes
-- Include log management concepts
-- Add Linux security hardening techniques
-- Organize notes into separate topic files
-
-## Author
-
-Gabriell Bedoy
-
-GitHub: https://github.com/GabbyCloudSec
+## Skills Developed
+- Linux system navigation
+- Security-relevant command-line usage
+- System-level analysis
 
